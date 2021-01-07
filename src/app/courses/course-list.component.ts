@@ -18,7 +18,7 @@ export class CourseListComponent implements OnInit{
                 preco: 290,
                 code: 'RVF-9876',
                 duration: 120,
-                rating: 2.4,
+                rating: 4.4,
                 realeseDate: '23/23/2021'
             },
             {
