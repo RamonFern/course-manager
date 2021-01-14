@@ -1,0 +1,11 @@
+A PASTA DO PROJETO ENCONTRA-SE AQUI:
+C:\Users\Ramon Fernandes\course-manager
+
+
+ANTES DE RODAR O PROJETO TEMOS QUE RODAR O BACKEND QUE ESTA AQUI:
+C:\Users\Ramon Fernandes\servers\course-manager-servers
+
+COM O COMANDO:
+ node serve.js
+
+PROJETO CONCLUIDO COM SUCESSO
